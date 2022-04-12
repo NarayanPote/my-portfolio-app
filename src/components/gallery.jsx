@@ -10,7 +10,7 @@ export const Gallery = (props) => {
             Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
             dapibus leonec.
           </p>
-        </div>
+        </div>  
         <div className='row'>
           <div className='portfolio-items'>
             {props.data

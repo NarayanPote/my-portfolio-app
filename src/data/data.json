@@ -1,22 +1,17 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Let me introduce myself",
+    "paragraph": "A self-motivated and responsible person, seeking for such a professional environment where enhancing professional and developing problem-solving skills are well appreciated. At the same time looking forward to challenging and growth-oriented tasks that help to prove the best of my ability in achieving the objective."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Hi Everyone, I am Narayan Pote from Pune, India. I am Profesional MERN Stack Developer. Currently working in Laboni media solution.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Playing Games",
+      "Learning and digging into new Technology" 
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
-    ]
+      "Fitness Freak",
+      "Travelling"    ]
   },
   "Gallery": [
     {
@@ -131,33 +126,48 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
+      "img": "img/team/01.png",
       "name": "John Doe",
       "job": "Director"
     },
     {
-      "img": "img/team/02.jpg",
+      "img": "img/team/02.png",
       "name": "Mike Doe",
       "job": "Senior Designer"
     },
     {
-      "img": "img/team/03.jpg",
+      "img": "img/team/03.png",
       "name": "Jane Doe",
       "job": "Senior Designer"
     },
     {
-      "img": "img/team/04.jpg",
+      "img": "img/team/04.png",
       "name": "Karen Doe",
-      "job": "Project Manager"
+      "job": "dsfsd Manager"
+    },
+    {
+      "img": "img/team/05.png",
+      "name": "John sds",
+      "job": "dd"
+    },
+    {
+      "img": "img/team/04.png",
+      "name": "Miksde Doe",
+      "job": "Sefdsfsnior Designer"
     }
+   
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Pune, Maharashtra, India ",
+    "phone": "9322851337",
+    "email": "n.pote7991@gmail.com",
     "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "twitter": "https://mobile.twitter.com/narayanpote3",
+    "youtube": "youtube.com",
+    "github": "https://github.com/NarayanPote",
+    "linkedin": "https://www.linkedin.com/in/narayan-pote-40746a191",
+    "instagram": "https://www.instagram.com/er_mr_narayan/",
+    "codepen": "https://codesandbox.io/dashboard/home?workspace=925ea981-fbd4-43b5-b7c9-33ea2fa0ad9a"
   },
   "Features": [
     {

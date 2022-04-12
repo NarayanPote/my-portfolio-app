@@ -126,19 +126,39 @@ export const Contact = (props) => {
             <div className='row'>
               <div className='social'>
                 <ul>
-                  <li>
+                  {/* <li>
                     <a href={props.data ? props.data.facebook : '/'}>
                       <i className='fa fa-facebook'></i>
                     </a>
-                  </li>
+                  </li> */}
                   <li>
-                    <a href={props.data ? props.data.twitter : '/'}>
+                    <a href={props.data ? props.data.twitter : '/'} target="_blank"  rel="noreferrer noopener">
                       <i className='fa fa-twitter'></i>
                     </a>
                   </li>
-                  <li>
+                  {/* <li>
                     <a href={props.data ? props.data.youtube : '/'}>
                       <i className='fa fa-youtube'></i>
+                    </a>
+                  </li> */}
+                  <li>
+                    <a href={props.data ? props.data.instagram : '/'} target="_blank"  rel="noreferrer noopener">
+                      <i className='fa fa-instagram'></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href={props.data ? props.data.github : '/'} target="_blank"  rel="noreferrer noopener">
+                      <i className='fa fa-github'></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a href={props.data ? props.data.linkedin : '/'} target="_blank"  rel="noreferrer noopener">
+                      <i className='fa fa-linkedin'></i>
+                    </a>
+                  </li>
+                  <li>
+                    <a  href={props.data ? props.data.codepen : '/'} target="_blank"  rel="noreferrer noopener">
+                      <i className='fa fa-codepen'></i>
                     </a>
                   </li>
                 </ul>
@@ -150,7 +170,7 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2020 Issaaf Kattan React Land Page Template. Design by{' '}
+            &copy; 2022 Narayan Pote. Design by{' '}
             <a href='http://www.templatewire.com' rel='nofollow'>
               TemplateWire
             </a>
