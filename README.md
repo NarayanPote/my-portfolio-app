@@ -2,7 +2,7 @@
 
 
 
-### <a href="https://react-landing-page-template.herokuapp.com">LIVE DEMO</a> 
+### <a href="#">LIVE DEMO</a> 
 
 
 ## Make it Yours!
