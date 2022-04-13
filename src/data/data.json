@@ -1,17 +1,12 @@
 {
   "Header": {
-    "title": "Let me introduce myself",
-    "paragraph": "A self-motivated and responsible person, seeking for such a professional environment where enhancing professional and developing problem-solving skills are well appreciated. At the same time looking forward to challenging and growth-oriented tasks that help to prove the best of my ability in achieving the objective."
+    "title": "Hi There!",
+    "paragraph": "I'M Narayan"
   },
   "About": {
     "paragraph": "Hi Everyone, I am Narayan Pote from Pune, India. I am Profesional MERN Stack Developer. Currently working in Laboni media solution.",
-    "Why": [
-      "Playing Games",
-      "Learning and digging into new Technology" 
-    ],
-    "Why2": [
-      "Fitness Freak",
-      "Travelling"    ]
+    "Why": ["Playing Games", "Learning and digging into new Technology"],
+    "Why2": ["Fitness Freak", "Travelling"]
   },
   "Gallery": [
     {
@@ -127,35 +122,40 @@
   "Team": [
     {
       "img": "img/team/01.png",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Ekal digital",
+      "job": "Ekal digital is MERN stack project it is Election System would have Candidate registration , document verification , events, nominee list to show the region wise winner candidate details.",
+      "links": "http://139.59.60.208/login"
     },
     {
       "img": "img/team/02.png",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "The PNBS",
+      "job": "PNBS is a Online Pooja and meal booking application built in MERN Stack in this application authenticated user can login and register. user can view live pooja streming.",
+      "links": "https://github.com/NarayanPote/MERN-Stack-PNBS-Project"
     },
     {
       "img": "img/team/03.png",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "React todolist",
+      "job": "A simple CRUD todo list application built with React",
+      "links": "https://heroku-tod0.herokuapp.com/"
     },
     {
       "img": "img/team/04.png",
-      "name": "Karen Doe",
-      "job": "dsfsd Manager"
+      "name": "MERN Image Uploading",
+      "job": "This code will give you idea how to upload multiple images using multer and display those images by storing name to the mongoDB db and displaying in React.",
+      "links": "https://mern-image-upload-app.herokuapp.com/"
     },
     {
       "img": "img/team/05.png",
-      "name": "John sds",
-      "job": "dd"
+      "name": "The vidyaprabhodhan",
+      "job": "A learning management system (LMS) is a software application or web-based technology used to plan, implement and assess a specific learning process. built in PHP",
+      "links": "https://vidyaprabodhanschool.com/site/login"
     },
     {
-      "img": "img/team/04.png",
-      "name": "Miksde Doe",
-      "job": "Sefdsfsnior Designer"
+      "img": "img/team/07.png",
+      "name": "Portfolio App",
+      "job": "My self coded personal website build with React.js",
+      "links": "www.google.com"
     }
-   
   ],
   "Contact": {
     "address": "Pune, Maharashtra, India ",
