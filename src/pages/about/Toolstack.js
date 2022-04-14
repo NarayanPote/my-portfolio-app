@@ -6,7 +6,7 @@ function Toolstack() {
   return (
     <div id="features" className="text-center">
       <div className="container">
-        <div className="row" style={{ display: "flex", padding: "5px" }}>
+        <div className="row" style={{ display: "-ms-grid", padding: "5px" }}>
           <div class="card">
             <h1>
               <SiVisualstudiocode />
