@@ -10,7 +10,7 @@ export default function Techstack() {
   return (
     <div id="features" className="text-center">
       <div className="container">
-        <div className="row" style={{ display: "flex", padding: "5px" }}>
+        <div className="row" style={{ display: "-ms-grid", padding: "5px" }}>
           <div class="card">
             <h1>
               <FaNode />
@@ -40,7 +40,7 @@ export default function Techstack() {
           </div>
         </div>
 
-        <div className="row" style={{ display: "flex", padding: "5px" }}>
+        <div className="row" style={{ display: "-ms-grid", padding: "5px" }}>
           <div class="card">
             <h1>
               <FaPhp />
